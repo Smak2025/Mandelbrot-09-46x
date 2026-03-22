@@ -1,4 +1,4 @@
-package ru.gr0946x.ui.painting;
+package ru.gr0946x.ui.painting.colors;
 
 import java.awt.*;
 
